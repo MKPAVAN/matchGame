@@ -1,0 +1,20 @@
+.tab-button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  font-size: 24px;
+}
+.list-item {
+  list-style-type: none;
+}
+
+.active {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  color: white;
+  font-size: 24px;
+  color: orange;
+  text-decoration: underline;
+}
